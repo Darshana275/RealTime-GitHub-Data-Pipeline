@@ -1,4 +1,4 @@
-# 🚀 GitHub Data Pipeline (Student Project) — Docker, Kafka, Spark, MySQL, React Dashboard
+# 🚀 GitHub Data Pipeline — Docker, Kafka, Spark, MySQL, React Dashboard
 
 This project was developed as part of my academic coursework in "Big Data Analytics" to demonstrate a **real-time, end-to-end data pipeline** using modern data engineering tools. It collects GitHub event data, processes it using Apache Spark, stores it in MySQL, and visualizes the results through a custom React dashboard. All components are containerized using Docker and orchestrated via Terraform and LocalStack for local AWS simulation.
 
